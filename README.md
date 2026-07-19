@@ -4,7 +4,7 @@
 
 ##### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,php&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,java,php&theme=light)
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
