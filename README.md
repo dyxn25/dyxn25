@@ -1,5 +1,3 @@
-### Hello World! I'm Dody irawan 👋
-
 ![Dody Irawan](img/banner.png)
 
 ##### Skills
@@ -16,6 +14,16 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-##### Connect with me
+##### Connect with me😘
 
 ![https://instagram.com/dyxn___](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+##### Play with me👾
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dyxn25/dyxn25/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dyxn25/dyxn25/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dyxn25/dyxn25/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
